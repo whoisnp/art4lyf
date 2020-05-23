@@ -79,7 +79,7 @@ body {
 }
 
 .text-center {
-  /*padding-top: 100px;*/
+  padding-top: 100px;
 }
 
 .h5, h5 {
@@ -106,8 +106,8 @@ body {
 }
 
 #payment {
-  background: white;
-  background-color: white;
+  /*background: white;*/
+  /*background-color: rgb(255,255,255);*/
 }
 
 .text-center.align-self-center {
@@ -116,5 +116,22 @@ body {
 
 .text-center.align-self-center {
   color: white;
+}
+
+.wavewrapper {
+  margin-top: 70px;
+  /*padding: 0px 0px 0px 0px;*/
+}
+
+#payment {
+  padding: 0;
+}
+
+.text-center {
+  padding: 0;
+}
+
+img {
+  padding: 0;
 }
 
