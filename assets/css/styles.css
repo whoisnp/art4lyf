@@ -1,0 +1,120 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #000!important;
+  opacity: 1;
+}
+
+.navbar-dark .navbar-brand {
+  color: #fff;
+  font-size: 29px;
+}
+
+body {
+  padding-top: 70px;
+  /*background: linear-gradient(60deg,#d9d9d9, #767676 ,#d9d9d9,#2a2a2a);*/
+  /*background: linear-gradient(60deg, #41ddf8 , #ec5858 ,#41ddf8 ,#ec5858);*/
+}
+
+.text-left {
+  padding-top: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 15px;
+}
+
+.h6, h6 {
+  padding: 10px 50px 10px 50px;
+}
+
+#HOME {
+  border: 8px solid #313437;
+  border-radius: 36px;
+  display: inline-block;
+}
+
+#WORK {
+  border: 8px solid #313437;
+  border-radius: 36px;
+  display: inline-block;
+}
+
+.a3 {
+  padding: 0%;
+}
+
+.a2 {
+  padding: 0%;
+}
+
+.a1 {
+  padding: 0%;
+}
+
+#about-me {
+  border: 8px solid #313437;
+  border-radius: 36px;
+  display: inline-block;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+.text-center.home {
+  padding-top: 300px;
+  padding-bottom: 500px;
+}
+
+#logo {
+  display: inline-block;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+#carousel-1 {
+  padding: 0px 100px;
+}
+
+.footer-basic {
+  padding-bottom: 0;
+}
+
+.text-center {
+  /*padding-top: 100px;*/
+}
+
+.h5, h5 {
+  padding: 50px;
+}
+
+.m-0 {
+  padding: 0;
+}
+
+.card-text:last-child {
+  padding-top: 0;
+}
+
+.text-center.mb-4 {
+  margin: 0;
+}
+
+.footer-basic {
+  /*position: fixed;*/
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#payment {
+  background: white;
+  background-color: white;
+}
+
+.text-center.align-self-center {
+  padding-top: 200px;
+}
+
+.text-center.align-self-center {
+  color: white;
+}
+
