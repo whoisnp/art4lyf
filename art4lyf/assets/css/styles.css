@@ -135,3 +135,7 @@ img {
   padding: 0;
 }
 
+.btn:not(:disabled):not(.disabled) {
+  align-self: center;
+}
+
