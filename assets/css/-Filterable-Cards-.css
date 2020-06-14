@@ -46,3 +46,20 @@
   margin-top: center;
 }
 
+#video {
+  background: black;
+  text-align: center;
+}
+
+#video iframe {
+  width: 90%;
+  height: 400px;
+}
+
+@media (min-width: 992px) {
+  #video iframe {
+    width: 900px;
+    height: 500px;
+  }
+}
+
